@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meerata0
-- 👀 I’m Database, Ethical Hacking, Programming 
+- 👀 I’m Database, Ethical Hacking, Programming
 
 <!---
 Meerata0/Meerata0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

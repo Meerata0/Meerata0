@@ -1,3 +1,3 @@
 # About me
-- 👋 Hi, I’m Meer(0xJkn)
+- 👋 Hi, I’m Meer (0xJkn)
 - 👀 ( Database, Ethical Hacking, Programming )
